@@ -26,7 +26,7 @@ Este programa valida si una oración singular dada sigue una gramática específ
 
 1. Carga el archivo en tu entorno Lisp.
 2. Ejecuta `(main)` para iniciar el analizador.
-3. Ingresa una oración relacionada con baloncesto cuando se te solicite.
+3. Ingresa una oración relacionada con baloncesto cuando se te solicite. (No necesitas ingresarla con comillas, únicamente la oración)
 4. El programa analizará y validará tu oración.
 
 ## Estructuras de Oraciones Válidas
@@ -36,15 +36,14 @@ El analizador reconoce varias estructuras gramaticales:
 ### Frases Nominales (SN)
 
 - Artículo + Sustantivo (`"el jugador"`)
-- Artículo + Adjetivo + Sustantivo (`"la rápida jugadora"`)
-- Preposición + SN (`"con el balón"`)
+- Artículo + Adjetivo + Sustantivo (`"el fuerte jugador"`)
 
 ### Frases Verbales (SV)
 
 - Verbo solo (`"juega"`)
 - Verbo + Adverbio (`"corre rápidamente"`)
-- Verbo + SN (`"anota el punto"`)
-- Verbo + Adverbio + SN (`"defiende intensamente la cancha"`)
+- Verbo + SN (`"pasa el balón"`)
+- Verbo + Adverbio + SN (`"defiende fuertemente la cancha"`)
 
 ### Oraciones Completas
 
