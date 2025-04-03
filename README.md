@@ -56,7 +56,7 @@ Oraciones válidas incluyen:
 
 - `"el equipo juega bien"`
 - `"la jugadora dribla rápidamente"`
-- `"el entrenador motiva al equipo"`
+- `"el entrenador motiva la cancha"`
 
 ## Manejo de Errores
 
