@@ -1,10 +1,10 @@
 # Analizador de Oraciones de Baloncesto
 
-Un analizador gramatical en español para oraciones relacionadas con baloncesto implementado en Common Lisp.
+Un analizador gramatical en español para oraciones singulares relacionadas con baloncesto implementado en Common Lisp.
 
 ## Descripción
 
-Este programa valida si una oración dada sigue una gramática específica relacionada con baloncesto, verificando tanto la estructura sintáctica como la concordancia de género.
+Este programa valida si una oración singular dada sigue una gramática específica relacionada con baloncesto, verificando tanto la estructura sintáctica como la concordancia de género.
 
 ### Características
 
